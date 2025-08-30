@@ -61,10 +61,10 @@ Rating distribution by vehicle type
 ├── Ola Project DEMO.gif   # Dashboard demo preview
 └── README.md              # Project documentation
 
+
 🚀 How to Run
 
 Clone this repository:
-
 git clone https://github.com/ManojRohokale/Ola-Data-Analytics-SQL-Project.git
 cd Ola-Data-Analytics-SQL-Project
 
