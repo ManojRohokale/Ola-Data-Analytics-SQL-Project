@@ -2,6 +2,9 @@
 
 This project analyzes Ola Cab booking data using SQL for data cleaning & analysis and Power BI for interactive dashboard creation. The goal is to uncover insights into bookings, cancellations, revenue, and customer experience.
 
+## 📊 Dashboard Preview  
+![Ola Dashboard Demo](./Ola%20Project%20DEMO.gif)
+
 📌 Project Overview
 
 The ride-hailing industry generates millions of transactions daily. To optimize business decisions, it is important to track:
